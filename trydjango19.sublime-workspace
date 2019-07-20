@@ -116,27 +116,33 @@
 	"buffers":
 	[
 		{
-			"file": "src/posts/views.py",
+			"file": "/C/Users/ASHUTOSH/dev/Webblog/mysite/manage.py",
 			"settings":
 			{
-				"buffer_size": 2876,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/templates/post_list.html",
-			"settings":
-			{
-				"buffer_size": 1613,
-				"encoding": "UTF-8",
+				"buffer_size": 626,
 				"line_ending": "Windows"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -166,14 +172,19 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/ASHUTOSH/dev/trydjango19"
+		"/C/Users/ASHUTOSH/dev/Webblog",
+		"/C/Users/ASHUTOSH/dev/Webblog/mysite",
+		"/C/Users/ASHUTOSH/dev/Webblog/mysite/mysite"
 	],
 	"file_history":
 	[
+		"/F/My files/Projects/Competitive Coding/AtCoder/C - Prison.cpp",
+		"/C/Users/ASHUTOSH/dev/trydjango19/src/posts/views.py",
+		"/C/Users/ASHUTOSH/dev/trydjango19/README.md",
+		"/C/Users/ASHUTOSH/dev/trydjango19/src/templates/post_list.html",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/templates/base.html",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/templates/post_detail.html",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/posts/models.py",
-		"/C/Users/ASHUTOSH/dev/trydjango19/src/templates/post_list.html",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/posts/templatetags/__init__.py",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/posts/templatetags/urlify.py",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/templates/post_form.html",
@@ -181,7 +192,6 @@
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/trydjango19/settings.py",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/trydjango19/urls.py",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/static/css/base.css",
-		"/C/Users/ASHUTOSH/dev/trydjango19/src/posts/views.py",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/templates/messages_display.html",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/templates/index.html",
 		"/C/Users/ASHUTOSH/dev/trydjango19/src/posts/urls.py",
@@ -220,59 +230,30 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/posts/views.py",
-					"semi_transient": false,
+					"file": "/C/Users/ASHUTOSH/dev/Webblog/mysite/manage.py",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 2876,
+						"buffer_size": 626,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1504,
-								1504
+								625,
+								625
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 756.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/templates/post_list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1613,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1529,
-								1529
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -316,11 +297,15 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
 	"project": "trydjan19.sublime-project",
 	"replace":
 	{
@@ -362,7 +347,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 175.0,
+	"side_bar_width": 164.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
