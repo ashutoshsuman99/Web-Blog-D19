@@ -116,11 +116,11 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/ASHUTOSH/dev/Webblog/mysite/manage.py",
+			"file": "src/posts/models.py",
 			"settings":
 			{
-				"buffer_size": 626,
-				"line_ending": "Windows"
+				"buffer_size": 1679,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -172,9 +172,10 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/ASHUTOSH/dev/Webblog",
-		"/C/Users/ASHUTOSH/dev/Webblog/mysite",
-		"/C/Users/ASHUTOSH/dev/Webblog/mysite/mysite"
+		"/C/Users/ASHUTOSH/dev/trydjango19",
+		"/C/Users/ASHUTOSH/dev/trydjango19/media_cdn",
+		"/C/Users/ASHUTOSH/dev/trydjango19/src",
+		"/C/Users/ASHUTOSH/dev/trydjango19/src/posts"
 	],
 	"file_history":
 	[
@@ -235,19 +236,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/ASHUTOSH/dev/Webblog/mysite/manage.py",
+					"file": "src/posts/models.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 626,
+						"buffer_size": 1679,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								625,
-								625
+								0,
+								0
 							]
 						],
 						"settings":
@@ -257,7 +258,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 486.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
