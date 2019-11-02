@@ -13,68 +13,43 @@ This is a Web Blog developed using Django 1.9 framework. It also uses basic HTML
 
 1. Download the project (through pull or directly download from GitHub)
 2. Extract the files.
-3. Create the virtual environment in root folder.
+3. Create the virtual environment in project root.
 
 ```
 virtualenv .
 ```
-4.
-
-And repeat
+4. Change directory to the project root and activate the virtual environment
 
 ```
-until finished
+.\Scripts\activate
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+5. Install Django 1.9 framework in the virtual environment.
 
 ```
-Give an example
+(trydjango19) > pip install django==1.9
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
+6. Change directory to where manage.py is present and run server
 
 ```
-Give an example
+(trydjango19) > python manage.py runserver
 ```
+7. Copy the developement server address generated and run it any of the web browsers.
+
 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Django 1.9](https://docs.djangoproject.com/en/2.2/releases/1.9/) - The web framework used
+* [Python 3.7](https://docs.python.org/3.7/) 
+* [SQLite](https://www.sqlite.org/docs.html) - Database 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Thakur Ashutosh Suman** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+This project has been developed in accordance to the tutorial series of [Coding for Enterpreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Coding for Enterpreneurs](https://github.com/codingforentrepreneurs)
